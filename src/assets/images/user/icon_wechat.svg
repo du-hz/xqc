@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_wechat</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#58A1FF" offset="0%"></stop>
+            <stop stop-color="#2C68FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7-个人中心-1" transform="translate(-36.000000, -428.000000)">
+            <g id="icon_wechat" transform="translate(36.000000, 428.000000)">
+                <path d="M20,10 C20,15.522 15.522,20 10,20 C4.478,20 0,15.522 0,10 C0,4.478 4.478,0 10,0 C15.522,0 20,4.478 20,10" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                <path d="M11.6641,11.498 L11.6691,11.266 C12.7751,10.492 13.3131,9.129 13.3131,7.109 C13.3131,5.162 12.0961,4 10.0561,4 L9.9441,4 C7.9061,4 6.6861,5.162 6.6861,7.109 C6.6861,9.119 7.2291,10.482 8.3461,11.261 L8.3461,11.496 C6.4871,11.745 4.6241,12.485 4.6241,13.616 C4.6241,15.198 6.4331,16 10.0001,16 C13.5671,16 15.3761,15.198 15.3761,13.616 C15.3761,12.487 13.5181,11.748 11.6641,11.498" id="Fill-3" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

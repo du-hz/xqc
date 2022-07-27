@@ -2,6 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 
 import 'normalize.css/normalize.css'
+import './assets/css/index.css'
 
 // vant配置
 // import { createApp } from 'vue';
@@ -12,9 +13,9 @@ import 'normalize.css/normalize.css'
 // app.use(Vant);
 // Vue.use(Vant);
 
-import { Tabbar, TabbarItem, Button, Field  } from 'vant'
+import { Tabbar, TabbarItem, Button, Toast, Swipe, SwipeItem, Lazyload, Popup, Tab, Tabs } from 'vant'
 import 'vant/lib/index.css'
-const plugins = [Tabbar, TabbarItem, Button, Field ]
+const plugins = [Tabbar, TabbarItem, Button, Toast, Swipe, SwipeItem, Lazyload, Popup, Tab, Tabs ]
 plugins.forEach(p => Vue.use(p))
 
 // 配置axios
@@ -25,6 +26,7 @@ import router from './router'
 
 // 引入移动端适配
 import 'lib-flexible/flexible.js'
+import './assets/css/style.scss'
 
 Vue.config.productionTip = false
 

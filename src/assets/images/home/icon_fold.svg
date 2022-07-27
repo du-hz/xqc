@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_fold</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-首页-7排序-1" transform="translate(-97.000000, -158.000000)">
+            <g id="icon_fold" transform="translate(97.000000, 158.000000)">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="12" height="12"></rect>
+                <path d="M6.79706189,8.57142857 L8.83753679,5.4959115 C9.2617181,4.85618086 8.80593863,4 8.04088024,4 L3.95897293,4 C3.19487205,4 2.73813506,4.85618086 3.16231637,5.4959115 L5.20374879,8.57142857 C5.58196915,9.14285714 6.41788401,9.14285714 6.79706189,8.57142857" id="Fill-1" fill="#2C68FF" transform="translate(6.000000, 6.500000) scale(1, -1) translate(-6.000000, -6.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

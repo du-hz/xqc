@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_collection</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#CDB3FA" offset="0%"></stop>
+            <stop stop-color="#9E7CF2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7-个人中心-1" transform="translate(-211.000000, -296.000000)">
+            <g id="icon_collection" transform="translate(211.000000, 296.000000)">
+                <path d="M20,10 C20,15.522 15.522,20 10,20 C4.478,20 0,15.522 0,10 C0,4.478 4.478,0 10,0 C15.522,0 20,4.478 20,10" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                <path d="M11.1084,4.9219 L12.0044,6.7379 C12.1854,7.1039 12.5334,7.3569 12.9364,7.4149 L14.9394,7.7059 C15.9544,7.8539 16.3594,9.0999 15.6254,9.8159 L14.1744,11.2289 C13.8834,11.5129 13.7514,11.9219 13.8194,12.3229 L14.1624,14.3179 C14.3354,15.3289 13.2744,16.0989 12.3684,15.6219 L10.5754,14.6799 C10.2144,14.4899 9.7854,14.4899 9.4244,14.6799 L7.6314,15.6219 C6.7254,16.0989 5.6654,15.3289 5.8374,14.3179 L6.1804,12.3229 C6.2494,11.9219 6.1164,11.5129 5.8254,11.2289 L4.3754,9.8159 C3.6404,9.0999 4.0464,7.8539 5.0604,7.7059 L7.0634,7.4149 C7.4664,7.3569 7.8144,7.1039 7.9954,6.7379 L8.8914,4.9219 C9.3444,4.0029 10.6554,4.0029 11.1084,4.9219" id="Fill-3" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

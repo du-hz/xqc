@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_user_selected</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0FCE8C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0FCE8C" stop-opacity="0.306225757" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#57A1FF" offset="0%"></stop>
+            <stop stop-color="#2C68FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-262.000000, -67.000000)">
+            <g id="icon_user_selected" transform="translate(262.000000, 66.999444)">
+                <path d="M20,22.0005556 L11,22.0005556 C9.896,22.0005556 9,21.1045556 9,20.0005556 L9,7.00055556 C9,5.89655556 9.896,5.00055556 11,5.00055556 L20,5.00055556 C21.104,5.00055556 22,5.89655556 22,7.00055556 L22,20.0005556 C22,21.1045556 21.104,22.0005556 20,22.0005556" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                <path d="M20,16.3644444 L20,16.3644444 C20,14.3555556 18.3722222,12.7277778 16.3644444,12.7277778 L3.63555556,12.7277778 C1.62777778,12.7277778 0,14.3555556 0,16.3644444 C0,18.3733333 1.62777778,20 3.63555556,20 L16.3644444,20 C18.3722222,20 20,18.3733333 20,16.3644444 M10,10.91 L10,10.91 C6.98777778,10.91 4.54555556,8.46777778 4.54555556,5.45555556 C4.54555556,2.44333333 6.98777778,0 10,0 C13.0122222,0 15.4544444,2.44333333 15.4544444,5.45555556 C15.4544444,8.46777778 13.0122222,10.91 10,10.91" id="Fill-3" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

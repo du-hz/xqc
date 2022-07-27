@@ -1,0 +1,33 @@
+$userColor: #1b243d;
+
+.van-toast {
+  padding: 11px 16px;
+  max-width: 260px;
+  background: rgba(0,0,0,0.70);
+  border-radius: 8px;
+  .van-toast__text {
+    font-size: 15px;
+    font-family: PingFangSC, PingFangSC-Regular;
+    font-weight: 400;
+    color: #ffffff;
+  }
+}
+
+.segmentation {
+  height: 1px;
+  background: #e8ebf3;
+  margin: 0 16px;
+}
+// 弹性盒
+@mixin flex($content: center) {
+  display: flex;
+  align-items: center;
+  justify-content: $content;
+} 
+
+// 定义字号、字体大小、颜色
+@mixin sizeColor($size: 14px, $color:#9ea5bb, $weight: 400) {
+  font-size: $size;
+  color: $color;
+  font-weight: $weight;
+} 

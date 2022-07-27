@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_grade</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFCB00" offset="0%"></stop>
+            <stop stop-color="#FF9C00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="移动端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7-个人中心-1" transform="translate(-36.000000, -296.000000)">
+            <g id="icon_grade" transform="translate(36.000000, 296.000000)">
+                <path d="M20,10 C20,15.522 15.522,20 10,20 C4.478,20 0,15.522 0,10 C0,4.478 4.478,0 10,0 C15.522,0 20,4.478 20,10" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                <path d="M15.1504,7.5889 L13.4494,8.5179 C13.2144,8.6459 12.9214,8.5709 12.7764,8.3469 L10.9114,5.4759 C10.4924,4.8309 9.5444,4.8439 9.1424,5.4999 L7.4104,8.3359 C7.2704,8.5659 6.9754,8.6469 6.7374,8.5229 L4.8344,7.5259 C4.0254,7.1019 3.1004,7.8449 3.3394,8.7249 L4.8334,14.2289 C4.9574,14.6839 5.3704,14.9999 5.8414,14.9999 L14.1724,14.9999 C14.6444,14.9999 15.0584,14.6839 15.1814,14.2289 L16.6604,8.7799 C16.9014,7.8919 15.9594,7.1479 15.1504,7.5889" id="Fill-3" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

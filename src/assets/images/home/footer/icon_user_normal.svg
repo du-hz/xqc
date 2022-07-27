@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_user_normal</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E8EBF3" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E8EBF3" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 0 20 0 20 19.9994444 0 19.9994444"></polygon>
+    </defs>
+    <g id="控件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-264.000000, -28.000000)">
+            <g id="icon_user_normal" transform="translate(264.000000, 28.000000)">
+                <path d="M20,22 L11,22 C9.896,22 9,21.104 9,20 L9,7 C9,5.896 9.896,5 11,5 L20,5 C21.104,5 22,5.896 22,7 L22,20 C22,21.104 21.104,22 20,22" id="Fill-1" fill="url(#linearGradient-1)"></path>
+                <g id="编组">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M20,16.3638889 L20,16.3638889 C20,14.355 18.3722222,12.7272222 16.3644444,12.7272222 L3.63555556,12.7272222 C1.62777778,12.7272222 0,14.355 0,16.3638889 C0,18.3727778 1.62777778,19.9994444 3.63555556,19.9994444 L16.3644444,19.9994444 C18.3722222,19.9994444 20,18.3727778 20,16.3638889 M10,10.9094444 L10,10.9094444 C6.98777778,10.9094444 4.54555556,8.46722222 4.54555556,5.455 C4.54555556,2.44277778 6.98777778,-0.000555555556 10,-0.000555555556 C13.0122222,-0.000555555556 15.4544444,2.44277778 15.4544444,5.455 C15.4544444,8.46722222 13.0122222,10.9094444 10,10.9094444" id="Fill-3" fill="#9EA5BB" mask="url(#mask-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

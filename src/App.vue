@@ -1,17 +1,11 @@
 <template>
 	<div id="app">
-		<router-view></router-view>
-		<van-tabbar v-model="active">
-      <van-tabbar-item>
-				<router-link to="home">首页</router-link>
-			</van-tabbar-item>
-      <van-tabbar-item>
-				<router-link to="type">产品分类</router-link>
-			</van-tabbar-item>
-      <van-tabbar-item>
-				<router-link to="enterprise">企业中心</router-link>
-			</van-tabbar-item>
-    </van-tabbar>
+		<!-- <header class="header">
+			<div></div>
+			<div>芯企查</div>
+			<div></div>
+		</header> -->
+		<router-view/>
 	</div>
 </template>
 
@@ -23,20 +17,35 @@ export default {
 	},
 	data(){
     return {
-      active: 0,
-      number: ''
+			
     }
   }
 }
 </script>
 
 <style>
-/* #app {
-	font-family: Avenir, Helvetica, Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+/* body { overflow-x: hidden; overflow-y: auto; } */
+::-webkit-scrollbar {
+  display: none;
+}
+html, body, #app {
+	width: 100%;
+	height: 100%;
+	/* overflow: hidden; */
+}
+.header {
+	width: 100%;
+	height: 36px;
 	text-align: center;
-	color: #2c3e50;
-	margin-top: 60px;
-} */
+	font-size: 17px;
+	font-weight: 500;
+	color: #000000;
+	line-height: 36px;
+	border: 1px solid #e8ebf3;
+}
+#container, .main, .content{
+	width: 100%;
+	height: 100%;
+	background: #F8FAFD;
+}
 </style>
